@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Music Records</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="lightblue">
+    <div class="main-title"><strong>ARTISTS</strong></div>
+    <hr>
+
+    <!-- Arijit Singh Section -->
+    <div class="artist-section clearfix">
+        <div class="artist-title">ARIJIT SINGH</div>
+        <img src="Arijit.webp" alt="Arijit Singh" height="300" width="400" class="artist-img">
+        <div class="section-title">Songs & Albums</div>
+        <ol>
+            <li>Tum Hi Ho
+                <ul><li><i>Aashiqui 2</i></li></ul>
+            </li>
+            <li>Kesariya
+                <ul><li><i>Brahmastra</i></li></ul>
+            </li>
+            <li>Shayad
+                <ul><li><i>Love Aaj Kal 2</i></li></ul>
+            </li>
+        </ol>
+        <div class="section-title">Awards & Years</div>
+        <img src="Arijit Award.jpeg" alt="Arijit taking award" height="300" width="400" class="award-img">
+        <ol>
+            <li>Padma Shri
+                <ul><li><i>2025</i></li></ul>
+            </li>
+            <li>Filmfare
+                <ul><li><i>2013</i></li></ul>
+            </li>
+            <li>Mirchi Music
+                <ul><li><i>2012</i></li></ul>
+            </li>
+        </ol>
+    </div>
+
+    <hr>
+
+    <!-- Shreya Ghoshal Section -->
+    <div class="artist-section clearfix">
+        <div class="artist-title">SHREYA GHOSHAL</div>
+        <img src="Shreya.jpeg" alt="Shreya Ghoshal" height="300" width="400" class="artist-img">
+        <div class="section-title">Songs & Albums</div>
+        <ol>
+            <li>Tujhme Rab Dikhta Hai
+                <ul><li><i>Rab Ne Bana Di Jodi</i></li></ul>
+            </li>
+            <li>Hasi Ban Gaye
+                <ul><li><i>Hamari Adhuri Kahani</i></li></ul>
+            </li>
+            <li>Mere Dholna
+                <ul><li><i>Bhool Bhulaiyaa</i></li></ul>
+            </li>
+        </ol>
+        <div class="section-title">Awards & Years</div>
+        <img src="Shreya Award.png" alt="Shreya taking award" height="330" width="350" class="award-img">
+        <ol>
+            <li>National Film Award
+                <ul><li><i>2003</i></li></ul>
+            </li>
+            <li>Filmfare
+                <ul><li><i>2003</i></li></ul>
+            </li>
+            <li>IIFA
+                <ul><li><i>2004</i></li></ul>
+            </li>
+        </ol>
+    </div>
+
+    <hr>
+
+    <!-- Vishal Mishra Section -->
+    <div class="artist-section clearfix">
+        <div class="artist-title">VISHAL MISHRA</div>
+        <img src="Vishal.jpeg" alt="VISHAL MISHRA" height="300" width="400" class="artist-img">
+        <div class="section-title">Songs & Albums</div>
+        <ol>
+            <li>Kaise Hua
+                <ul><li><i>Kabir Singh</i></li></ul>
+            </li>
+            <li>Pehle Bhi Main
+                <ul><li><i>Animal</i></li></ul>
+            </li>
+            <li>Naacho Naacho
+                <ul><li><i>RRR</i></li></ul>
+            </li>
+        </ol>
+        <div class="section-title">Awards & Years</div>
+        <img src="Vishal Award.webp" alt="Vishal taking award" height="320" width="320" class="award-img">
+        <ol>
+            <li>Mirchi Music Award
+                <ul><li><i>2020</i></li></ul>
+            </li>
+            <li>Filmfare
+                <ul><li><i>2020</i></li></ul>
+            </li>
+            <li>IIFA
+                <ul><li><i>2024</i></li></ul>
+            </li>
+        </ol>
+    </div>
+
+    <hr>
+    <a href="Music_Records2.html" target="right side"
+        title="Goes to divided page">
+        Click Here </a>
+</body>
+</html>
